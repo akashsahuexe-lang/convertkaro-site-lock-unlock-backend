@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://convertkaro.in/sitemap.xml
